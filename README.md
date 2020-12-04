@@ -36,6 +36,9 @@
    <img width="" height="" src="./PNG/12주차_3.png"></img>
    
 ## 기말 고사과제 2020.12.06
-   <img width="" height="" src="./PNG/12주차_1.png"></img>
+
+
+   <img width="" height="" src="./PNG/19173062_박가영(로그인페이지).png"></img>
+   <img width="" height="" src="./PNG/19173062_박가영(메인페이지).png"></img>
    
 
